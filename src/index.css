@@ -1,0 +1,7 @@
+.fi{
+    width: 0px;
+}
+@tailwind base;
+
+@tailwind components;
+@tailwind utilities;
