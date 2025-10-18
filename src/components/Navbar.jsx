@@ -108,14 +108,6 @@ function Navbar() {
         >
           Africa
         </NavLink>
-        <NavLink
-          to="/oceania"
-          className={({ isActive }) =>
-            isActive ? "border-b-2 transition-all duration-75" : ""
-          }
-        >
-          Oceania
-        </NavLink>
       </div>
     </div>
   );
